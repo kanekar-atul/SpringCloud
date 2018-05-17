@@ -1,0 +1,4 @@
+1. This is application for Eureka Server
+2. There are two micro-services as below which are registered on Euraka Server.
+    1. employee-consumer
+    2. employee-producer
