@@ -1,0 +1,5 @@
+Project Name : Employee-Producer
+
+1. This micro-service is used for produce employee list
+2. We can create two instance of application with different port.
+3. The microservice which will invoke this microservice..it will automatically redirect to available instance( Load Balancing )
