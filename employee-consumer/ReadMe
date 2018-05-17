@@ -1,0 +1,5 @@
+Project Name : Employee-Consumer
+
+1. This application is designed to invoked employee-producer endpoint.
+2. It will call endpoints which are available on multiple instances.
+3. It implement loadBalance service ( Ribbon Component ).
